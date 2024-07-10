@@ -11,5 +11,25 @@
   "yaml.schemas": {
     "./.vscode/astrowind/config-schema.json": "/src/config.yaml"
   },
-  "eslint.useFlatConfig": true
+  "eslint.useFlatConfig": true,
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#d0a18a",
+    "activityBar.background": "#d0a18a",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#e8f6ed",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#d0a18a",
+    "statusBar.background": "#c28465",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#af6845",
+    "statusBarItem.remoteBackground": "#c28465",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#c28465",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#c2846599",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#c28465"
 }
